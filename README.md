@@ -44,6 +44,23 @@ apps/promptlab/
 
 ---
 
+## Material del bootcamp
+
+Slides, laboratorios, teoria y cheat-sheets estan en la plataforma del curso:
+
+**[carlospalanca.es/cursos](https://carlospalanca.es/cursos)**
+
+El instructor os dara la contrasenya de acceso el primer dia.
+
+| Dia | Temas |
+|-----|-------|
+| Dia 1 | Cultura DevOps, Git, Docker, Docker Compose |
+| Dia 2 | CI/CD, GitHub Actions, Pipelines |
+| Dia 3 | Kubernetes, Helm, GitOps con ArgoCD |
+| Dia 4 | Terraform, Prometheus, Grafana, Proyecto Final |
+
+---
+
 ## Preparar el entorno
 
 Antes del primer dia, necesitais:
